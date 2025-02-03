@@ -6,6 +6,11 @@ Elecdisplay is an Electron-based application that displays system statistics on 
 
 ![!\[\[wallpaper/bg_spiderman_1920-1080.png\]\]](https://github.com/Nereoll/elecdisplay/blob/master/wallpaper/bg_spiderman_1920-1080.png)
 
+## Overview : 
+
+![!\[\[overview.png\]\]](https://github.com/Nereoll/elecdisplay/blob/master/overview.png)
+
+
 ## Features
 
 - Transparent and frameless window
