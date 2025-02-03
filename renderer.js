@@ -93,6 +93,13 @@ function drawStats(ctx, stats) {
 			icon: null,
 		},
 		{
+			label: `${osName}`,
+			x: canvas.width / 2 - 60,
+			y: canvas.height / 2 + 75,
+			color: '#000000',
+			icon: null,
+		},
+		{
 			label: `${graphics}`,
 			x: canvas.width / 2 - 235,
 			y: canvas.height / 2 + 250,
