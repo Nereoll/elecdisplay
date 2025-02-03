@@ -2,6 +2,7 @@
 
 Elecdisplay is an Electron-based application that displays system statistics on a canvas. It provides real-time information about CPU load, memory usage, operating system details, uptime, and more.
 **it was made to fit this wallpaper** : 
+(rescaling of this wallpaper from wallHaven :  https://whvn.cc/nzq95j )
 
 ![[wallpaper/bg_spiderman_1920-1080.png]]
 
@@ -44,7 +45,6 @@ npm start
 in the project directory you can run : 
 - `npm start`: Starts the Electron application.
 - `npm install`: downloads all the dependencies for the app to run
-
 ### Dependencies
 - electron: Framework for building cross-platform desktop apps with JavaScript, HTML, and CSS.
 - systeminformation: Library for retrieving system hardware and software information.
@@ -60,6 +60,6 @@ This project is licensed under the ISC License. See the LICENSE file for details
 ## Author
 nereol
 ## Acknowledgements
-Electron
-Systeminformation
+- Electron
+- Systeminformation
 
