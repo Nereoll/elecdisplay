@@ -7,7 +7,7 @@ const createWindow = () => {
   mainWindow = new BrowserWindow({
     width: 1920,
     height: 1080,
-    icon: path.join(__dirname, 'icons', 'icons/appicon/ElecDisplayicon256*208.png'), // Change this path to your actual icon
+    icon: path.join(__dirname, 'icons','appicon','electDisplayIcon.png'), // Change this path to your actual icon
     transparent: true, // Transparent background
     frame: false, // No window frame
     alwaysOnTop: false, // Initially stays above
