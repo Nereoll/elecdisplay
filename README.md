@@ -4,7 +4,7 @@ Elecdisplay is an Electron-based application that displays system statistics on 
 **it was made to fit this wallpaper** : 
 (rescaling of this wallpaper from wallHaven :  https://whvn.cc/nzq95j )
 
-![[wallpaper/bg_spiderman_1920-1080.png]]
+![!\[\[wallpaper/bg_spiderman_1920-1080.png\]\]](https://github.com/Nereoll/elecdisplay/blob/master/wallpaper/bg_spiderman_1920-1080.png)
 
 ## Features
 
