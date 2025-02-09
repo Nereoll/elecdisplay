@@ -2,13 +2,12 @@
 	"name": "elecdisplay",
 	"version": "1.0.0",
 	"main": "main.js",
-
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "electron ."
 	},
 	"bin": {
-		  "elecdisplay": "./node_modules/.bin/electron ."
+		"elecdisplay": "./node_modules/.bin/electron ."
 	},
 	"author": "nereol",
 	"license": "ISC",
@@ -21,5 +20,4 @@
 		"electron-reload": "^2.0.0-alpha.1",
 		"systeminformation": "^5.25.11"
 	}
-	
 }
